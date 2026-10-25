@@ -1,0 +1,26 @@
+﻿RE:ZERO AFTER MEMORIES — PATCH FR V5 (SUR L'EXE ANGLAIS ORIGINAL)
+===================================================================
+Ce patch n'est PAS un installateur. Il crée un nouveau dossier à côté de votre EXE.
+Votre fichier anglais original ne sera pas modifié.
+
+UTILISATION SUR WINDOWS
+1. Décompresser entièrement cette archive ZIP dans un dossier.
+2. Glisser-déposer "Re Zero After Memories.exe" (archive anglaise d'origine)
+   sur "Appliquer_patch_FR_V5.cmd".
+   Autre possibilité : déposer l'EXE anglais décompressé "Re_Zero_After_Memories.exe".
+3. Laisser le programme vérifier et extraire la source, puis lire le message final.
+4. Ouvrir "ReZero_After_Memories_FR_v5" créé à côté de l'EXE source.
+5. Lancer "Re_Zero_After_Memories_FR_v5.exe".
+
+REMARQUES
+- Le patch fonctionne uniquement avec l'EXE anglais identique à celui fourni
+  pour ce projet (contrôle SHA-256). Il refuse les autres versions.
+- Si vous appliquez le patch à l'EXE anglais décompressé, les musiques .ogg,
+  "D3DX9_43.dll" et "options.ini" doivent être présents dans le même dossier.
+- Si vous utilisez l'archive anglaise d'origine, les ressources sont extraites
+  automatiquement via la commande Windows "expand.exe".
+- La V5 corrige 36 répliques par rapport à la V4 ; les 204 textes sont vérifiés.
+- Les polices accentuées et l'écran des commandes restent ceux de la V3/V4.
+- Aucune partie n'a été rejouée ici sous Windows : si un texte dépasse,
+  consultez "dialogues_fr_v5_comparaison.csv" pour retrouver son numéro.
+- Les droits du fangame et de Re:Zero demeurent à leurs titulaires.

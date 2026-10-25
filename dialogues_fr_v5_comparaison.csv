@@ -1,0 +1,205 @@
+﻿numero;personnage;anglais_original;fr_v4;fr_v5;modifie_v5
+0;Subaru;"""...""";"""...""";"""...""";non
+1;Subaru;"""......""";"""......""";"""......""";non
+2;Subaru;""".........""";""".........""";""".........""";non
+3;Subaru;"""I know this ceiling...""";"""Ce plafond... je le connais...""";"""Ce plafond... je le connais...""";non
+4;Subaru;> Roswaal's manor...;> Le manoir de Roswaal...;> Le manoir de Roswaal...;non
+5;Subaru;> Here...again...?;> Je suis... encore ici... ?;> Je suis... encore ici ?;oui
+6;Subaru;> Wait a minute...!;> Attends voir... !;> Attends voir... !;non
+7;Subaru;"""Emilia-tan...!""";"""Émilia-tan... !""";"""Émilia-tan... !""";non
+8;Subaru;> This doesn't seem right...;> Non, il y a un truc qui cloche...;> Non, il y a un truc qui cloche...;non
+9;Subaru;> What happened!? Why am I here!? Did I Return by Death again? Is this a new save point or something!?;> Qu'est-ce qui s'est passé !? Pourquoi je suis ici !? J'ai encore fait un Retour par la mort ? Un nouveau point de sauvegarde !?;> Qu'est-ce qui s'est passé !? Pourquoi je suis ici !? J'ai encore fait un Retour par la mort ? Un nouveau point de sauvegarde !?;non
+10;Subaru;"""Emilia...""";"""Émilia...""";"""Émilia...""";non
+11;Subaru;> Don't tell me...;> Ne me dis pas...;> Ne me dis pas...;non
+12;Subaru;> Was all that really just a dream?;> Tout ça... c'était vraiment un rêve ?;> Tout ça... c'était vraiment un rêve ?;non
+13;Subaru;> No. It was very real. It had to be.;> Non. C'était réel. J'en suis certain.;> Non. C'était réel. J'en suis certain.;non
+14;Subaru;> But...which 'reality' was it?;> Mais... quelle version de la réalité ?;> Mais... quelle version de la réalité ?;non
+15;Ram;"""Ah. Barusu. You're awake.""";"""Ah, Barusu. Te voilà réveillé.""";"""Ah, Barusu. Te voilà réveillé.""";non
+16;Subaru;"""OO-AH...!""";"""OUAAAAH... !""";"""OUAAAAH... !""";non
+17;Subaru;> Crap...better act natural.;> Merde... garde ton calme.;> Merde... fais comme si de rien n'était.;oui
+18;Subaru;"""A-ah, R-Ram-chi! Fancy meeting you here, eheheh...heh...""";"""A-ah, R-Ram-chi ! Quelle surprise ! Hé hé... hé...""";"""A-ah, R-Ram-chi ! Quelle surprise de te trouver ici ! Hé hé...""";oui
+19;Ram;"""I live here.""";"""J'habite ici.""";"""J'habite ici.""";non
+20;Subaru;"""...""";"""...""";"""...""";non
+21;Subaru;> Yeah...that was pretty much anything but natural.;> Ouais... pour le naturel, on repassera.;> Ouais... pour le naturel, on repassera.;non
+22;Ram;"""I am here to inform you that your preferred choice of clothing has been cleaned and repaired for you.""";"""Je viens vous informer que vos vêtements habituels ont été lavés et raccommodés.""";"""Je viens vous informer que votre tenue habituelle a été lavée et raccommodée.""";oui
+23;Subaru;"""Eh?""";"""Hein ?""";"""Hein ?""";non
+24;Ram;"""Also, if you are feeling well, your presence is requested in the courtyard.""";"""Et si vous êtes remis, on vous attend dans la cour.""";"""Et si vous êtes remis, on vous attend dans la cour.""";non
+25;Subaru;"""Feeling well...?""";"""Si je suis remis... ?""";"""Si je suis remis... ?""";non
+26;Subaru;> Grrk...!;> Grrk... !;> Grrk... !;non
+27;Subaru;> Hey, Ram...could you not say stuff that reminds me of that [i]one time[/i]?;> Dis, Ram... tu pourrais éviter de me rappeler [i]cette fois-là[/i] ?;> Dis, Ram... tu pourrais éviter de me rappeler [i]cette fois-là[/i] ?;non
+28;Subaru;"""Heh! I've never felt better in my life!";"""Ha ! Je pète la forme ! Jamais été aussi bien !""";"""Ha ! Je pète la forme ! Jamais été aussi bien !""";non
+29;Subaru;"""That's right! Natuski Subaru is back in action and fanatical as a demon! I'll be at the courtyard, just you leave it to me!""";"""Eh oui ! Natsuki Subaru est de retour, déchaîné comme un démon ! J'arrive dans la cour, compte sur moi !""";"""Eh oui ! Natsuki Subaru est de retour, déchaîné comme un démon ! J'arrive dans la cour, compte sur moi !""";non
+30;Ram;"""...""";"""...""";"""...""";non
+31;Ram;"""Very well, Sir. But...please hurry and get dressed first.""";"""Très bien, monsieur. Mais... commencez par vous habiller, je vous prie.""";"""Très bien, monsieur. Mais... commencez par vous habiller, je vous prie.""";non
+32;Subaru;"""Huh?""";"""Hein ?""";"""Hein ?""";non
+33;Subaru;"""...!""";"""...!""";"""...!""";non
+34;Subaru;"""AAAAAAAAAAHHHH!""";"""AAAAAAH !""";"""AAAAAAH !""";non
+35;Subaru;"""...""";"""...""";"""...""";non
+36;Subaru;> Right, now that my morning humiliation is out of the way, time to get down to business.;> Bon, l'humiliation du matin, c'est fait. Place aux choses sérieuses.;> Bon, l'humiliation du matin, c'est fait. Place aux choses sérieuses.;non
+37;Subaru;> But before I get to the courtyard, I've got to figure out what I'm dealing with, here.;> Mais avant de rejoindre la cour, il faut que je comprenne où j'en suis.;> Mais avant d'aller dans la cour, je dois comprendre ce qui m'arrive.;oui
+38;Subaru;> I don't even remember what happened this time around. Sort of like...that [i]one other[/i] time. * shudder *;> Je ne me rappelle même pas ce qui s'est passé cette fois-ci. Un peu comme... [i]cette autre fois[/i]. * frisson *;> Je ne me rappelle même pas ce qui s'est passé cette fois-ci. Un peu comme... [i]cette autre fois[/i]. * frisson *;non
+39;Subaru;> B-but that's impossible, right? Return by Death has never taken me farther back after reaching a certain point before!;> M-mais c'est impossible ! Le Retour par la mort ne m'a jamais renvoyé avant un point de sauvegarde déjà atteint !;> M-mais c'est impossible ! Le Retour par la mort ne m'a jamais renvoyé avant un point de sauvegarde déjà atteint !;non
+40;Subaru;> Maybe if I can determine [i]when[/i] I am for now, I'll be able to piece together the rest.;> Si j'arrive à savoir [i]quand[/i] je suis, je pourrai reconstituer le reste.;> Si j'arrive à savoir [i]à quel moment[/i] je suis, je pourrai y voir plus clair.;oui
+41;Subaru;"""...""";"""...""";"""...""";non
+42;Subaru;"""That's it!""";"""Mais oui !""";"""Mais oui !""";non
+43;Subaru;"""Oh Beeeeeeeakooooo!""";"""Oh, Beeeeeeeakooooo !""";"""Oh, Beeeeeeeakooooo !""";non
+44;Subaru;"""...Found you!""";"""... Te voilà !""";"""... Te voilà !""";non
+45;Béatrice;"""...""";"""...""";"""...""";non
+46;Béatrice;"""Still have your uncanny knack for finding the hidden library, I see.""";"""Toujours aussi doué pour dénicher la Bibliothèque interdite, je suppose.""";"""Toujours aussi doué pour dénicher la Bibliothèque interdite, je suppose.""";non
+47;Subaru;"""Beako! Boy am I glad to see you!""";"""Beako ! Trop content de te voir !""";"""Beako ! Trop content de te voir !""";non
+48;Béatrice;"""What is it this time?""";"""C'est quoi, cette fois ?""";"""Qu'est-ce que tu me veux encore ?""";oui
+49;Subaru;"""Actually, I just have a small question. Don't mind me if it's a little strange, ok?""";"""Juste une petite question. Elle risque d'être bizarre, mais fais pas attention, d'accord ?""";"""Juste une petite question. Elle risque d'être bizarre, mais fais pas attention, d'accord ?""";non
+50;Béatrice;"""I'd expect nothing less from you, I suppose. What is it?""";"""Avec toi, rien d'étonnant, je suppose. Vas-y.""";"""Avec toi, je m'attends à tout, je suppose. Qu'est-ce que tu veux ?""";oui
+51;Subaru;"""Incidentally...how long have I been staying here?""";"""Au fait... ça fait combien de temps que je suis ici ?""";"""Au fait... ça fait combien de temps que je suis ici ?""";non
+52;Béatrice;"""Did you hit your head or something? Tch, whatever...""";"""Tu t'es cogné la tête, ou quoi ? Tss... peu importe.""";"""Tu t'es cogné la tête, ou quoi ? Tss... peu importe.""";non
+53;Béatrice;"""Natsuki Subaru has only been here one night since the incident, I suppose. Satisfied?""";"""Depuis l'incident, Natsuki Subaru n'a passé qu'une nuit ici, je suppose. Satisfait ?""";"""Depuis l'incident, Natsuki Subaru n'a passé qu'une nuit ici, je suppose. Satisfait ?""";non
+54;Subaru;> One...night...;> Une... nuit...;> Une... nuit...;non
+55;Subaru;* gulp *;* gloups *;* gloups *;non
+56;Béatrice;"""What's the matter? You look like you've seen a ghost.""";"""Quoi ? On dirait que tu viens de voir un fantôme.""";"""Qu'est-ce qui t'arrive ? On dirait que tu as vu un fantôme.""";oui
+57;Subaru;"""No, i-it's nothing. I-I'll be going now.""";"""N-non, rien du tout. J-je m'en vais.""";"""N-non, rien du tout. J-je m'en vais.""";non
+58;Béatrice;"""That sounds like a good idea, I suppose. Now, be gone with you.""";"""Excellente idée, je suppose. Allez, ouste !""";"""Voilà une bonne idée, je suppose. Maintenant, file.""";oui
+59;Subaru;"""...""";"""...""";"""...""";non
+60;Subaru;> One...night...;> Une... nuit...;> Une... nuit...;non
+61;Subaru;> I've only been at the Roswaal manor for [i]one night[/i]!?;> Je n'ai passé qu'[i]une nuit[/i] au manoir de Roswaal !?;> Je n'ai passé qu'[i]une nuit[/i] au manoir de Roswaal !?;non
+62;Subaru;> So what, now I have to redo everything [i]again[/i]!? Going to the capital, convincing Rem I'm not a witch cult spy...;> Je dois [i]encore tout recommencer[/i] !? Retourner à la capitale, convaincre Rem que je ne suis pas un espion du Culte de la Sorcière...;> Je dois [i]encore tout recommencer[/i] !? Retourner à la capitale, convaincre Rem que je ne suis pas un espion du Culte de la Sorcière...;non
+63;Subaru;"""...!""";"""...!""";"""...!""";non
+64;Subaru;"""Rem!""";"""Rem !""";"""Rem !""";non
+65;Subaru;"""Of course! If I talk to her now, maybe she can tell me more of what's going on in 'this' time!""";"""Mais oui ! Si je parle à Rem, elle pourra peut-être m'aider à comprendre ce qui se passe cette fois !""";"""Mais oui ! Si je parle à Rem, elle pourra peut-être m'aider à comprendre ce qui se passe cette fois !""";non
+66;Subaru;> Rem...!;> Rem... !;> Rem... !;non
+67;Subaru;"""Rem!""";"""Rem !""";"""Rem !""";non
+68;Subaru;"""Hmm, not here...""";"""Mmh... pas ici...""";"""Mmh... pas ici...""";non
+69;Subaru;"""Rem!?""";"""Rem !?""";"""Rem !?""";non
+70;Subaru;> Not here either...?;> Pas ici non plus... ?;> Pas ici non plus... ?;non
+71;Subaru;> I could've sworn she was one of the first people I met in the mansion the first time...;> Pourtant, c'était l'une des premières personnes rencontrées au manoir...;> Pourtant, la première fois, Rem était parmi les premières personnes croisées au manoir...;oui
+72;Subaru;> ...!;> ... !;> ... !;non
+73;Subaru;> Wait...!;> Attends... !;> Attends... !;non
+74;Subaru;> It all adds up...!;> Tout colle... !;> Tout colle... !;non
+75;Subaru;> It's just like before...!;> C'est comme la première fois... !;> C'est exactement comme la première fois... !;oui
+76;Subaru;> After all this time...here I am, right back where I started.;> Après tout ce chemin... me revoilà à la case départ.;> Après tout ce chemin... me revoilà à la case départ.;non
+77;Subaru;> And Rem...;> Et Rem...;> Et Rem...;non
+78;Subaru;"""No...Rem...!""";"""Non... Rem... !""";"""Non... Rem... !""";non
+79;Subaru;"""Tch...!""";"""Tss... !""";"""Tss... !""";non
+80;Subaru;"""...""";"""...""";"""...""";non
+81;Subaru;"""It's not fair...""";"""C'est pas juste...""";"""C'est pas juste...""";non
+82;Subaru;"""Enough already...!""";"""J'en ai assez... !""";"""J'en ai assez... !""";non
+83;Subaru;"""When will I ever make it...?""";"""Quand est-ce que je vais enfin y arriver... ?""";"""Quand est-ce que je vais enfin y arriver... ?""";non
+84;Subaru;"""When will it ever be enough!?""";"""Quand est-ce que ça suffira enfin !?""";"""Quand est-ce que ça suffira enfin !?""";non
+85;Subaru;"""GGYAAAAAHHHHHHH!""";"""GYAAAAAAAH !""";"""GYAAAAAAAH !""";non
+86;Subaru;"""...""";"""...""";"""...""";non
+87;???;"""Well, well, that's quite a face to be making for someone who just defeated the witch cult.""";"""Eh bien ! Quelle tête, pour quelqu'un qui vient de vaincre le Culte de la Sorcière !""";"""Eh bien ! Quelle tête, pour quelqu'un qui vient de vaincre le Culte de la Sorcière !""";non
+88;Subaru;"""...?""";"""...?""";"""...?""";non
+89;Subaru;"""Puck...?""";"""Puck... ?""";"""Puck... ?""";non
+90;Puck;"""What are you doing holed up in your room? You don't [i]look[/i] like you feel so well.""";"""Pourquoi tu restes enfermé ? T'as pas [i]l'air[/i] en forme.""";"""Qu'est-ce que tu fais enfermé dans ta chambre ? Tu n'as pas [i]l'air[/i] d'aller bien.""";oui
+91;Subaru;"""Puck...!""";"""Puck... !""";"""Puck... !""";non
+92;Puck;"""Ack! Hey! Easy on the fur!""";"""Hé ! Doucement avec ma fourrure !""";"""Hé ! Attention à ma fourrure !""";oui
+93;Subaru;"""Please...take me back...!""";"""S'il te plaît... ramène-moi... !""";"""S'il te plaît... ramène-moi... !""";non
+94;Puck;"""Huh!?""";"""Quoi !?""";"""Quoi !?""";non
+95;Subaru;"""You're a spirit aren't you!? Can't you do something!?""";"""T'es un esprit, non !? Tu peux bien faire quelque chose !?""";"""T'es un esprit, non !? Tu peux bien faire quelque chose !?""";non
+96;Puck;"""You certainly are a strange one, Natsuki Subaru.""";"""Vraiment, tu es un drôle de numéro, Natsuki Subaru.""";"""Vraiment, tu es un drôle de numéro, Natsuki Subaru.""";non
+97;Puck;"""Bringing you back is exactly why I'm here, but I don't think it'd take a great spirit to do it.""";"""Je suis justement venu te ramener ! Et pas besoin d'un grand esprit pour ça.""";"""Je suis justement venu te ramener ! Et pas besoin d'un grand esprit pour ça.""";non
+98;Subaru;"""Ehh?""";"""Hein ?""";"""Hein ?""";non
+99;Puck;"""Ram came by to tell my Lia that you're feeling fine and she should expect you shortly. Yet here you are, crying like a baby in your room while we wait.""";"""Ram a prévenu ma Lia que tu allais bien et qu'on te verrait bientôt. Et pendant ce temps, monsieur sanglote tout seul dans sa chambre !""";"""Ram a dit à ma Lia que tu allais bien et que tu nous rejoindrais bientôt. Et pendant ce temps, tu pleures tout seul alors qu'on t'attend !""";oui
+100;Subaru;"""Huh!?""";"""Hein !?""";"""Hein !?""";non
+101;Puck;"""Come on, your battle wounds should be well healed by now. You can't be feeling [i]that[/i] bad.""";"""Allez, tes blessures devraient avoir cicatrisé. Tu ne peux pas être [i]si[/i] mal en point.""";"""Allez, tes blessures ont dû cicatriser. Tu ne peux quand même pas te sentir [i]si[/i] mal.""";oui
+102;Subaru;"""Battle...wounds...?""";"""Mes... blessures de combat... ?""";"""Mes blessures... de la bataille... ?""";oui
+103;Puck;"""Yeesh, maybe you took a blow to the head that Emilia missed when she was healing you...""";"""Tu t'es peut-être cogné la tête sans qu'Émilia s'en rende compte en te soignant...""";"""Tu t'es peut-être pris un coup sur la tête qu'Émilia n'a pas remarqué en te soignant...""";oui
+104;Subaru;"""Puck! Was there a battle yesterday!?""";"""Puck ! Il y a eu une bataille hier !?""";"""Puck ! Il y a eu une bataille hier !?""";non
+105;Puck;"""But of course. You only led the defense yourself!""";"""Évidemment ! Et c'est toi qui as dirigé la défense !""";"""Évidemment ! Et c'est toi qui as dirigé la défense !""";non
+106;Subaru;"""...!""";"""...!""";"""...!""";non
+107;Subaru;"""So then...I [i]didn't[/i] Return by—""";"""Alors... je [i]n'ai pas[/i] fait de Retour par la...""";"""Alors... je [i]ne suis pas[/i] revenu par la...""";oui
+108;Subaru;"""Unngh...""";"""Argh...""";"""Argh...""";non
+109;Subaru;> Oops.;> Oups.;> Oups.;non
+110;Subaru;"""Not again...""";"""Ça recommence...""";"""Ça recommence...""";non
+111;Subaru;> Well, [i]this[/i] much hasn't changed, I see.;> Bon. [i]Ça[/i], au moins, n'a pas changé.;> Bon. [i]Ça[/i], au moins, n'a pas changé.;non
+112;Puck;"""Er—you returned, alright.""";"""Euh... Si, tu es bien revenu.""";"""Euh... Si, tu es bien revenu.""";non
+113;Puck;"""After rescuing Lia and defeating the witch cult you came back to the town to rest for the night. You've been here ever since.""";"""Après avoir sauvé Lia et vaincu le Culte de la Sorcière, tu es rentré en ville pour passer la nuit. Et depuis, tu es ici.""";"""Après avoir sauvé Lia et vaincu le Culte de la Sorcière, tu es rentré en ville pour passer la nuit. Tu n'as pas bougé depuis.""";oui
+114;Subaru;"""That's right...of course I did...ahahah...""";"""Ah oui... bien sûr... ah ah...""";"""Ah oui... bien sûr... ah ah...""";non
+115;Subaru;"""Then...Rem's not...! And Emilia is...!""";"""Alors... Rem n'est pas... ! Et Émilia est... !""";"""Alors... Rem n'est pas... ! Et Émilia est... !""";non
+116;Subaru;"""Ahahahahaha!""";"""Ahahahahaha !""";"""Ahahahahaha !""";non
+117;Puck;"""Crying again? Is there a problem?""";"""Tu pleures encore ? Quelque chose ne va pas ?""";"""Tu pleures encore ? Quelque chose ne va pas ?""";non
+118;Subaru;"""No. Not at all. I've never felt better!""";"""Non, tout va bien ! Je vais très bien !""";"""Non, tout va bien ! Je vais très bien !""";non
+119;Subaru;"""...Really. I really mean that.""";"""Non, vraiment. Je le pense.""";"""Non, vraiment. Je le pense.""";non
+120;Subaru;* sniff *;* renifle *;* renifle *;non
+121;Subaru;"""Sorry for making you wait. Is Emilia still around?""";"""Désolé de t'avoir fait attendre. Émilia est toujours là ?""";"""Désolé de t'avoir fait attendre. Émilia est toujours là ?""";non
+122;Puck;"""But of course. Right this way.""";"""Bien sûr. Suis-moi.""";"""Bien sûr. Suis-moi.""";non
+123;Subaru;> Emilia-tan...no, Emilia.;> Émilia-tan... non. Émilia.;> Émilia-tan... non. Émilia.;non
+124;Subaru;> Do you remember? Do you really remember yesterday as I do?;> Tu t'en souviens ? Tu te rappelles vraiment hier... comme moi ?;> Tu te souviens vraiment de ce qui s'est passé hier... comme moi ?;oui
+125;Subaru;"""Emilia...?""";"""Émilia... ?""";"""Émilia... ?""";non
+126;Émilia;"""...!""";"""...!""";"""...!""";non
+127;Émilia;"""Subaru-kun...!""";"""Subaru-kun... !""";"""Subaru-kun... !""";non
+128;Subaru;"""Sorry I made you wait.""";"""Désolé de t'avoir fait attendre.""";"""Désolé de t'avoir fait attendre.""";non
+129;Émilia;"""No no, is everything alright? Your face is red. Are your wounds healed properly?""";"""Non, mais toi, ça va ? Tu es tout rouge. Tes blessures sont guéries ?""";"""Mais non... et toi, tu vas bien ? Tu es tout rouge. Tes blessures sont bien guéries ?""";oui
+130;Subaru;"""By you? I'd expect nothing less than perfection.""";"""Soigné par toi ? Ça ne peut qu'être parfait.""";"""Soigné par toi ? Ça ne peut être que parfait.""";oui
+131;Émilia;"""I...see. That's good.""";"""Je... vois. Tant mieux, alors.""";"""Je... vois. Tant mieux, alors.""";non
+132;Subaru;"""...""";"""...""";"""...""";non
+133;Subaru;"""Tell me, Emilia-tan: after the battle yesterday, did we...er...""";"""Dis, Émilia-tan... après la bataille d'hier, est-ce qu'on... enfin...""";"""Dis, Émilia-tan... après la bataille d'hier, est-ce qu'on... enfin...""";non
+134;Émilia;"""...!""";"""...!""";"""...!""";non
+135;Subaru;"""Th-that is to say, do you remember after you healed me...how...we talked. About things.""";"""E-enfin... après que tu m'as soigné, tu te souviens de notre... conversation ?""";"""E-enfin... après que tu m'as soigné, tu te rappelles... ce dont on a parlé ?""";oui
+136;Subaru;"""Do you...remember?""";"""Tu... t'en souviens vraiment ?""";"""Tu... t'en souviens vraiment ?""";non
+137;Émilia;"""Mm. I remember everything you said to me. I've cherised those words in my heart ever since.""";"""Oui. Je n'ai pas oublié un mot de ce que tu m'as dit. Je garde tes paroles précieusement dans mon cœur.""";"""Oui. Je n'ai pas oublié un mot de ce que tu m'as dit. Je garde tes paroles précieusement dans mon cœur.""";non
+138;Subaru;"""Yeah? Then in that case, everything's just fine.""";"""Ah oui ? Alors... tout va bien.""";"""Ah oui ? Alors... tout va bien.""";non
+139;Émilia;"""Listen, Subaru-kun...I'm sorry for the way I treated you before.""";"""Dis, Subaru-kun... je suis désolée de la façon dont je t'ai traité.""";"""Dis, Subaru-kun... je suis désolée de la façon dont je t'ai traité.""";non
+140;Subaru;"""Don't be. Like I said: you were right. I did a lot of dumb things I shouldn't have.""";"""Tu n'as pas à l'être. Comme je te l'ai dit, tu avais raison. J'ai fait des choses stupides.""";"""Ne t'excuse pas. Tu avais raison, je te l'ai dit. J'ai fait un tas de bêtises.""";oui
+141;Émilia;"""Hm-mm. Not that.""";"""Mmh-mmh. Je ne parlais pas de ça.""";"""Mmh... non, pas pour ça.""";oui
+142;Subaru;"""Eh? What then?""";"""Hein ? De quoi, alors ?""";"""Hein ? De quoi, alors ?""";non
+143;Émilia;"""For not giving you a chance to prove yourself. All the times you tried to help me...the time you swore to be my knight...""";"""De ne pas t'avoir donné l'occasion de faire tes preuves. Quand tu essayais de m'aider... quand tu as juré de devenir mon chevalier...""";"""De ne pas t'avoir laissé une chance de faire tes preuves. Quand tu essayais de m'aider... quand tu as juré de devenir mon chevalier...""";oui
+144;Émilia;"""It's strange...I feel like you know far more about me than I know about you. No, not just [i]about[/i] me. Like you've really [i]known me[/i] for so long, although we just met recently.""";"""C'est étrange... Tu en sais tant sur moi, et moi si peu sur toi. Pas seulement [i]sur[/i] moi... On dirait que tu me [i]connais[/i] depuis longtemps, alors qu'on vient de se rencontrer.""";"""C'est étrange... Tu en sais tant sur moi, et moi si peu sur toi. Pas seulement [i]sur[/i] moi... On dirait que tu me [i]connais[/i] depuis longtemps, alors qu'on vient de se rencontrer.""";non
+145;Subaru;* gulp *;* gloups *;* gloups *;non
+146;Émilia;"""To be honest, it scared me. I've never met anyone like you, Subaru-kun. I didn't know what to think. So first I followed you...and then I ran away.""";"""Pour être franche, ça m'a fait peur. Je n'avais jamais rencontré quelqu'un comme toi, Subaru-kun. Je ne savais pas quoi penser. Je t'ai suivi... puis je me suis enfuie.""";"""Pour être franche, ça m'a fait peur. Je n'avais jamais rencontré quelqu'un comme toi, Subaru-kun. Je ne savais pas quoi penser. Je t'ai suivi... puis je me suis enfuie.""";non
+147;Émilia;"""The truth is, I still don't understand much about you, or why you care so much about me—a silver-haired half-elf who looks like the Jealous Witch.""";"""Je ne comprends toujours pas qui tu es, ni pourquoi tu tiens tant à moi... une demi-elfe aux cheveux argentés qui ressemble à la Sorcière de l'Envie.""";"""Je ne comprends toujours pas qui tu es, ni pourquoi tu tiens tant à moi... une demi-elfe aux cheveux argentés qui ressemble à la Sorcière de l'Envie.""";non
+148;Émilia;"""But...""";"""Mais...""";"""Mais...""";non
+149;Subaru;"""Yes...?""";"""Oui... ?""";"""Oui... ?""";non
+150;Émilia;"""I...want to understand.""";"""Je... j'ai envie de comprendre.""";"""Je... je voudrais comprendre.""";oui
+151;Subaru;"""...""";"""...""";"""...""";non
+152;Subaru;"""And I want you to understand. Really, I do. But...""";"""Moi aussi, j'aimerais que tu comprennes. Vraiment. Mais...""";"""Moi aussi, j'aimerais que tu comprennes. Vraiment. Mais...""";non
+153;Subaru;"""What if I told you there's a perfectly good reason that I can never tell anyone, no matter how badly I want to?""";"""Et si je te disais qu'il y a une bonne raison pour laquelle je ne peux en parler à personne... même si j'en ai désespérément envie ?""";"""Et si je te disais qu'il y a une bonne raison pour laquelle je ne peux en parler à personne... même si j'en ai désespérément envie ?""";non
+154;Émilia;"""I won't make the same mistake twice. If that's the case, then I will try my best to trust you.""";"""Je ne veux pas refaire la même erreur. Alors je ferai de mon mieux pour te faire confiance.""";"""Je ne veux pas refaire la même erreur. Alors je ferai de mon mieux pour te faire confiance.""";non
+155;Subaru;"""You can. I promise. And I'll never stop doing my best to prove it to you.""";"""Tu peux. Je te le promets. Et je ferai tout pour mériter ta confiance.""";"""Tu peux me faire confiance. Je te le promets. Et je continuerai à te le prouver.""";oui
+156;Subaru;"""Just you wait! I may not be much now, but one day I'll be the most trustworthy Natsuki Subaru the world has ever seen!""";"""Tu verras ! Je ne paie peut-être pas de mine, mais un jour, Natsuki Subaru deviendra l'homme le plus digne de confiance au monde !""";"""Tu verras ! Je ne paie peut-être pas de mine, mais un jour, Natsuki Subaru deviendra l'homme le plus digne de confiance au monde !""";non
+157;Émilia;"""Hehe...""";"""Hé hé...""";"""Hé hé...""";non
+158;Subaru;"""Right?""";"""Hein ?""";"""Hein ?""";non
+159;Émilia;"""Mm. I look forward to that.""";"""Oui. J'ai hâte.""";"""Oui. J'ai hâte.""";non
+160;Subaru;"""You know, Emilia...""";"""Tu sais, Émilia...""";"""Tu sais, Émilia...""";non
+161;Émilia;"""Hm?""";"""Hm ?""";"""Hm ?""";non
+162;Subaru;"""I may not be able to explain everything about my past, but there is still one thing we can do. And then, I'll be able to tell you everything.""";"""Je ne peux pas tout t'expliquer de mon passé. Mais il nous reste une chose à faire. Après ça, je pourrai tout te raconter.""";"""Je ne peux pas tout t'expliquer de mon passé. Mais il nous reste une chose à faire. Après ça, je pourrai tout te raconter.""";non
+163;Émilia;"""What's that?""";"""Laquelle ?""";"""Laquelle ?""";non
+164;Subaru;"""Start over.""";"""Repartir de zéro.""";"""Repartir de zéro.""";non
+165;Émilia;"""Start over?""";"""Repartir de zéro ?""";"""Repartir de zéro ?""";non
+166;Subaru;"""Yeah! Start over...from zero, you know? Whatever we've done to hurt each other, any differences we might have...just put it all behind us.""";"""Ouais ! Repartir... de zéro ! Nos blessures, nos différences, tout ce qu'on s'est fait subir... on laisse tout ça derrière nous.""";"""Ouais ! Repartir... de zéro ! Nos blessures, nos différences, tout ce qu'on s'est fait subir... on laisse tout ça derrière nous.""";non
+167;Subaru;"""We'll enter a new future together! And from there, there'll be no doubt. We'll know each other equally.""";"""On se construira un nouvel avenir, tous les deux ! Et cette fois, on apprendra à se connaître sur un pied d'égalité.""";"""On se construira un nouvel avenir, tous les deux ! Et cette fois, on apprendra à se connaître sur un pied d'égalité.""";non
+168;Subaru;"""Can't hold back anything if it never happened. Can't run away from it, either.""";"""Si rien de tout ça n'a eu lieu, il n'y a plus rien à cacher. Ni rien à fuir.""";"""Si rien de tout ça n'a eu lieu, il n'y a plus rien à cacher. Ni rien à fuir.""";non
+169;Émilia;"""Hmm...""";"""Hmm...""";"""Hmm...""";non
+170;Subaru;"""You can take your time. So long as we’re together, I'll wait as long as you want me to.""";"""Prends ton temps. Tant qu'on sera ensemble, je t'attendrai autant qu'il le faudra.""";"""Prends ton temps. Tant qu'on sera ensemble, je t'attendrai autant qu'il le faudra.""";non
+171;Émilia;"""Hehe...you said something like that yesterday, too.""";"""Hé hé... tu m'as déjà dit quelque chose de ce genre hier.""";"""Hé hé... tu m'as déjà dit quelque chose de ce genre hier.""";non
+172;Subaru;"""Maybe I did, maybe I didn't. From zero, yeah?""";"""Peut-être, peut-être pas ! On repart de zéro, je te rappelle !""";"""Peut-être, peut-être pas ! On repart de zéro, je te rappelle !""";non
+173;Émilia;"""No...even then, you definitely said it.""";"""Non... même en repartant de zéro, tu l'as bel et bien dit.""";"""Non... même en repartant de zéro, tu l'as bel et bien dit.""";non
+174;Subaru;"""Hm?""";"""Hm ?""";"""Hm ?""";non
+175;Émilia;"""No matter what happens between us...I never want to forget the things you said to me yesterday. Or what you did that made your words so meaningful.""";"""Quoi qu'il arrive entre nous... je ne veux pas oublier tes paroles d'hier. Ni ce que tu as fait pour leur donner tant de poids.""";"""Quoi qu'il arrive entre nous... je ne veux pas oublier tes paroles d'hier. Ni ce que tu as fait pour leur donner tant de poids.""";non
+176;Émilia;"""Every time I think of them...I feel so happy. Happier than I've ever been.""";"""Rien que d'y penser, je suis heureuse. Comme jamais auparavant.""";"""Rien que d'y penser, je suis heureuse. Comme jamais auparavant.""";non
+177;Émilia;"""My heart flutters, and I can't decide what's the sensible thing to do anymore.""";"""Mon cœur s'emballe... et je ne sais même plus ce qui serait raisonnable.""";"""Mon cœur s'emballe... et je ne sais même plus ce qui serait raisonnable.""";non
+178;Émilia;"""...I'm...saying strange things, aren't I.""";"""... Je dis des choses bizarres, pas vrai ?""";"""... Je dis des choses bizarres, pas vrai ?""";non
+179;Subaru;"""Heh. I've heard worse.""";"""Hé. J'ai entendu bien pire.""";"""Hé hé... j'ai déjà entendu pire, tu sais.""";oui
+180;Émilia;"""Hehe...it's alright. You can say it. I know you're just being kind.""";"""Hé hé... tu peux le dire. Je sais que tu veux être gentil.""";"""Hé hé... ça va. Tu peux le dire. Je sais que tu veux me ménager.""";oui
+181;Subaru;"""No, I mean it. Emilia, you don't have to figure it all out right away. I certainly haven't.""";"""Non, je suis sérieux. Émilia, tu n'as pas à tout comprendre tout de suite. Moi non plus.""";"""Non, je suis sérieux. Émilia, tu n'as pas à tout comprendre tout de suite. Moi non plus.""";non
+182;Subaru;"""I know you're a royal candidate and all. You won't always have time for jerk like me. But no matter what, I'll be there, backing you up all the way to the throne.""";"""Je sais que tu es candidate à la sélection royale. Tu n'auras pas toujours du temps pour un crétin comme moi. Mais je resterai à tes côtés jusqu'au trône.""";"""Tu es candidate à la sélection royale. Tu n'auras pas toujours du temps pour un idiot comme moi. Mais je serai là, jusqu'au bout, pour t'aider à monter sur le trône.""";oui
+183;Émilia;"""Subaru...""";"""Subaru...""";"""Subaru...""";non
+184;Subaru;"""With whatever time we have, I'll discover ten thousand reasons to love you, and no matter what it takes, I'll keep working hard until you fall head over heels for me.""";"""Du temps qu'on aura, je trouverai dix mille raisons de t'aimer. Et je ferai tout pour que tu tombes, toi aussi, éperdument amoureuse de moi !""";"""Pendant tout le temps qu'on aura, je trouverai dix mille raisons de t'aimer. Et je ferai tout pour qu'à ton tour, tu tombes éperdument amoureuse de moi !""";oui
+185;Émilia;"""And then?""";"""Et ensuite ?""";"""Et ensuite ?""";non
+186;Subaru;"""I don't know. But...I know I won’t stop until I find out.""";"""Aucune idée ! Mais je n'arrêterai pas avant de le découvrir.""";"""Aucune idée ! Mais je n'arrêterai pas avant de le découvrir.""";non
+187;Émilia;"""Hehe...""";"""Hé hé...""";"""Hé hé...""";non
+188;Émilia;"""From zero, then...""";"""Alors... on repart de zéro...""";"""Alors... on repart de zéro...""";non
+189;Subaru;"""Exactly! So what do you say?""";"""Exactement ! Alors, tu en dis quoi ?""";"""Exactement ! Alors, tu en dis quoi ?""";non
+190;Subaru;"""Will you...give me a chance?""";"""Tu veux bien... me laisser une chance ?""";"""Tu veux bien... me laisser une chance ?""";non
+191;Émilia;"""Only if you promise to do the same for me. I can be pretty insufferable at times, you know.""";"""Seulement si tu m'en laisses une aussi. Je peux être très pénible, tu sais.""";"""Mais promets-moi de m'en laisser une aussi. Je peux être pénible, tu sais.""";oui
+192;Subaru;"""My Emilia? Never.""";"""Mon Émilia ? Impossible !""";"""Toi, Émilia ? Pénible ? Jamais !""";oui
+193;Subaru;"""Of course I promise! A thousand times over...I promise.""";"""Bien sûr ! Mille fois, s'il le faut... je te le promets.""";"""Bien sûr ! Mille fois, s'il le faut... je te le promets.""";non
+194;Émilia;"""Then...I promise, too.""";"""Alors... je te le promets aussi.""";"""Alors... je te le promets aussi.""";non
+195;Émilia;"""But...there's just one problem.""";"""Mais... il y a juste un petit problème.""";"""Mais... il y a juste un petit problème.""";non
+196;Subaru;"""Oh?""";"""Ah ?""";"""Ah ?""";non
+197;Émilia;"""You said my name. But if we're starting over from zero, you wouldn't know that yet, right?""";"""Tu as dit mon prénom. Mais si on repart de zéro, tu n'es pas censé le connaître, si ?""";"""Tu viens de dire mon prénom. Mais si on repart de zéro, tu n'es pas censé le connaître, si ?""";oui
+198;Subaru;"""Aha, now you're getting it!""";"""Ah ! Voilà, tu as tout compris !""";"""Ah ! Voilà, tu as tout compris !""";non
+199;Émilia;"""Mm. In that case...""";"""Mmh. Dans ce cas...""";"""Mmh. Dans ce cas...""";non
+200;Émilia;"""My name...is Emilia. Just Emilia.""";"""Je m'appelle... Émilia. Juste Émilia.""";"""Je m'appelle... Émilia. Juste Émilia.""";non
+201;Subaru;"""Mm. I'm Natsuki Subaru.""";"""Mmh. Et moi, c'est Natsuki Subaru.""";"""Mmh. Et moi, c'est Natsuki Subaru.""";non
+202;Émilia;"""Hehe...""";"""Hé hé...""";"""Hé hé...""";non
+203;Émilia;"""Nice to meet you...Subaru-kun!""";"""Ravie de te rencontrer... Subaru-kun !""";"""Ravie de te rencontrer... Subaru-kun !""";non

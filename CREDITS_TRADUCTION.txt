@@ -1,0 +1,10 @@
+﻿RE:ZERO AFTER MEMORIES — TRADUCTION FR V5
+===========================================
+Traduction non officielle réalisée à partir du fangame anglais.
+Le jeu, ses musiques, ses images, ses personnages et ses marques appartiennent
+à leurs auteurs et ayants droit respectifs.
+Le patch séparé ne contient pas l'exécutable original du jeu.
+
+Travail de traduction : adaptation française, révision du ton des personnages,
+ajout et correction des glyphes accentués, traduction de l'écran des commandes.
+Cette V5 conserve les polices fonctionnelles de la V3 et la base française de la V4.
